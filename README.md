@@ -16,7 +16,7 @@ Feel free to reach out if I can help with anything at all.
 - 💬 Ask me about iOS, Swift, MacOS
 - 📫 How to reach me: [X (formerly twitter)](https://twitter.com/seun_banwo), [linkedin](https://www.linkedin.com/in/oluwaseun-adebanwo)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love listening to music and if I love a song I can have it on repeat for a day or more 😁
+- ⚡ Fun fact: I love listening to music and if I love a song I can have it on repeat for days 😁
 
 #### Things I am passionate about 🤗:
 
