@@ -10,7 +10,7 @@ You'll find here several repositories where I test different ideas, architecture
 Don't let the graph fool you. I code almost everyday but push mostly to bitbucket. 
 Feel free to reach out if I can help with anything at all.
 
-- 🌱 I’m currently learning SwiftData (this is ...2023)
+- 🌱 I’m currently learning SwiftData (if you're from the future this was 2023...)
 - 👯 I’m open to collaborate on open source projects and projects that impact a lot of lives
 - 🤔 Given the ever-evolving nature of the iOS platform, I am committed to continuous improvement. You can't catch me idle. 
 - 💬 Ask me about iOS, Swift, MacOS
