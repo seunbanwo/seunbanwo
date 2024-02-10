@@ -7,7 +7,6 @@
 I’m a product-aware iOS engineer who understands the need for tested, resilient code balanced against the need to move fast and iterate.
 I am passionate about  platforms and always looking at opportunities to widen my knowledge. 
 You'll find here several repositories where I test different ideas, architectures and patterns. 
-Don't let the graph fool you. I code almost everyday but push mostly to bitbucket. 
 Feel free to reach out if I can help with anything at all.
 
 - 🌱 I’m currently learning SwiftData (if you're from the future this was 2023...)
